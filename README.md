@@ -1,3 +1,4 @@
+![Alt text](https://niyiblack.files.wordpress.com/2023/08/pexels-anete-lusina-4792285.jpg?resize=450%2C450)
 # File_Organizer
 File organizer is a python script meant to organize files in a given directory.
 
